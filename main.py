@@ -27,4 +27,4 @@ class MyClient(discord.Client):
 
 
 client = MyClient()
-client.run('OTcwMjk3NDIwMDk1Mjk1NTM4.Ym555A.NNUbexXoBVxqFbkuIPD50znQPXg') # Replace with your token
+client.run('######') # Replace with your token
