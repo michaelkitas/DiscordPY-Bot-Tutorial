@@ -40,4 +40,4 @@ class MyClient(discord.Client):
 
 client = MyClient()
 # Replace with your token
-client.run('OTcwMjk3NDIwMDk1Mjk1NTM4.GXlocD.4eN8AZSJyQBfm0Go-KjgPk5M7WpMrgh8Oi9jsA')
+client.run('YOUR_TOKEN_GOES_HERE')
